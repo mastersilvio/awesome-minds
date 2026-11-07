@@ -11,6 +11,12 @@ Perfis de pensadores, cientistas, artistas, inventores e outras pessoas de difer
 - por que essas contribuições tiveram impacto;
 - onde verificar as informações e continuar a leitura.
 
+## Perfis
+
+- [Albert Einstein](perfis/albert-einstein.md) — relatividade e efeito fotoelétrico.
+- [Isaac Newton](perfis/isaac-newton.md) — leis do movimento, gravitação e óptica.
+- [Leonardo da Vinci](perfis/leonardo-da-vinci.md) — pintura, estudos de anatomia e engenharia.
+
 ## Critérios de inclusão
 
 “Brilhante” é uma avaliação subjetiva. Para manter a seleção transparente, cada indicação deve apresentar uma contribuição identificável, explicar seu impacto e citar fontes confiáveis. O projeto busca diversidade de áreas, culturas e períodos históricos e aceita revisões quando surgirem evidências melhores.
